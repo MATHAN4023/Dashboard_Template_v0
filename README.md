@@ -114,4 +114,9 @@ MIT. Free for personal and commercial use. Attribution appreciated but not requi
 
 ## 💡 Screenshots
 
-> Add your own screenshots or GIFs here to showcase the UI!
+> <img width="1915" height="934" alt="image" src="https://github.com/user-attachments/assets/098f6c24-0ec1-411b-acb9-e88339d234e5" /><img width="1900" height="931" alt="image" src="https://github.com/user-attachments/assets/c9d4e300-28d2-4979-9171-0bac6c87e413" /> <img width="1904" height="930" alt="image" src="https://github.com/user-attachments/assets/7a3ccb96-2605-4cb0-ae01-f4031dbe9921" />
+
+
+Livesite : https://dashboard-template-v0.netlify.app
+
+
